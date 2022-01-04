@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KD3010
+- 👋 Hi, I’m Kushagra Devda
 - I am a Web Developer ❄
 - My Fields of Expertise are
   1. HTML CSS
