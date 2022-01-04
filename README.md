@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushagra Devda
-- I am a Web Developer ❄
+- You can count on me for UI/UX Designing🌈 and Web Development ❄
 - My Fields of Expertise are
   1. HTML CSS
   2. JavaScript (Including ES6)
