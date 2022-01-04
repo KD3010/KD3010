@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @KD3010
-- 👀 I’m a Full Stack Developer
-- 
+- I am a Web Developer ❄
+- My Fields of Expertise are
+  1. HTML CSS
+  2. JavaScript (Including ES6)
+  3. Node.js    Express.js    MongoDB
+  4. React.js
+  5. Wordpress Website Development
+- I am a 5⭐ rated problem solver on Hackerrank
+  Check my profile : https://www.hackerrank.com/iamkd30
+
 
 <!---
 KD3010/KD3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
