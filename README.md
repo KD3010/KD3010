@@ -6,8 +6,6 @@
   3. Node.js    Express.js    MongoDB
   4. React.js, Redux
   5. Wordpress Website Development
-- I am a 5⭐ rated problem solver on Hackerrank
-  Check my profile : https://www.hackerrank.com/iamkd30
 
 
 <!---
